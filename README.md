@@ -1,8 +1,6 @@
 # Rust Roadmap + Exercícios
 Esse roadmap permite uma boa cobertura dos conceitos essenciais de Rust.
 
----
-
 ## 🛠️ 1. **Fundamentos do Rust**
    - **Objetivo**: Entender a sintaxe e os conceitos básicos.
    - **Conteúdos**:
