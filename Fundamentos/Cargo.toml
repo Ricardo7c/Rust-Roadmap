@@ -1,0 +1,19 @@
+[dependencies]
+
+[package]
+name = "Fundamentos"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "A_hello_word"
+path = "A_hello_word.rs"
+
+[[bin]]
+name = "B_Conversor_de_Temperatura"
+path = "B_Conversor_de_Temperatura.rs"
+
+[[bin]]
+name = "B_Contador"
+path = "B_Contador.rs"
+
