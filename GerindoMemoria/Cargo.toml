@@ -1,0 +1,19 @@
+[dependencies]
+
+[package]
+name = "GerindoMemoria"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "A_Maior_Numero"
+path = "A_Maior_Numero.rs"
+
+[[bin]]
+name = "B_PilhaDeNumeros"
+path = "B_PilhaDeNumeros.rs"
+
+[[bin]]
+name = "C_ReferenciaMutavel"
+path = "C_ReferenciaMutavel.rs"
+
