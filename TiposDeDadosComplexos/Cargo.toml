@@ -9,3 +9,7 @@ edition = "2021"
 name = "A_Pessoa"
 path = "A_Pessoa.rs"
 
+[[bin]]
+name = "B_MenorValor"
+path = "B_MenorValor.rs"
+
