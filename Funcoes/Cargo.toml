@@ -1,0 +1,11 @@
+[dependencies]
+
+[package]
+name = "Funcoes"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "A_FiltrarNumerosPares"
+path = "A_FiltrarNumerosPares.rs"
+
