@@ -1,0 +1,11 @@
+[dependencies]
+
+[package]
+name = "TiposDeDadosComplexos"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "A_Pessoa"
+path = "A_Pessoa.rs"
+
