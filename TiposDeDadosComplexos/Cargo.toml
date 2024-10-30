@@ -13,3 +13,7 @@ path = "A_Pessoa.rs"
 name = "B_MenorValor"
 path = "B_MenorValor.rs"
 
+[[bin]]
+name = "C_SistemaDeLogin"
+path = "C_SistemaDeLogin.rs"
+
