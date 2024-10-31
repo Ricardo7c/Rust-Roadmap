@@ -6,6 +6,6 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "Descritivo"
-path = "Descritivo.rs"
+name = "A_Descritivo"
+path = "A_Descritivo.rs"
 
