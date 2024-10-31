@@ -13,3 +13,7 @@ path = "A_FiltrarNumerosPares.rs"
 name = "B_Calculadora"
 path = "B_Calculadora.rs"
 
+[[bin]]
+name = "C_FiltrarStrings"
+path = "C_FiltrarStrings.rs"
+
