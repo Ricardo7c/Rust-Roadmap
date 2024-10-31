@@ -13,3 +13,7 @@ path = "A_Descritivo.rs"
 name = "B_Desconto"
 path = "B_Desconto.rs"
 
+[[bin]]
+name = "C_Polimorfismo"
+path = "C_Polimorfismo.rs"
+
