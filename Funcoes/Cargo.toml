@@ -9,3 +9,7 @@ edition = "2021"
 name = "A_FiltrarNumerosPares"
 path = "A_FiltrarNumerosPares.rs"
 
+[[bin]]
+name = "B_Calculadora"
+path = "B_Calculadora.rs"
+
