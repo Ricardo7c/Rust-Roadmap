@@ -1,4 +1,4 @@
-# Rust Roadmap + Exercícios
+# Rust Roadmap
 Esse roadmap permite uma boa cobertura dos conceitos essenciais de Rust.
 
 ## 🛠️ 1. **Fundamentos do Rust**
