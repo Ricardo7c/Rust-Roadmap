@@ -9,3 +9,7 @@ edition = "2021"
 name = "A_Descritivo"
 path = "A_Descritivo.rs"
 
+[[bin]]
+name = "B_Desconto"
+path = "B_Desconto.rs"
+
