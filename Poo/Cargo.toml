@@ -1,0 +1,11 @@
+[dependencies]
+
+[package]
+name = "Poo"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "Descritivo"
+path = "Descritivo.rs"
+
