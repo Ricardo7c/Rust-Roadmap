@@ -114,3 +114,5 @@ Esse roadmap permite uma boa cobertura dos conceitos essenciais de Rust.
      - Construa um jogo simples, como "Pedra, Papel e Tesoura"
 
 --- 
+
+Veja exercícios complementares em <a href="https://github.com/Ricardo7c/Rust-Roadmap-Exercicios" target="_blank">Rust Roadmap - Exercícios</a>
