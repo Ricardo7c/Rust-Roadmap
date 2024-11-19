@@ -13,7 +13,7 @@ Pretendo alimentar aos poucos cada topico com a explicação e exercicios a medi
 - [ ] Porque Rust?
 - [ ] Instalando Rust
 - [ ] Vscode e extensões
-- [ ] Explicando o meu Cargo.Toml
+- [ ] [Explicando o meu Cargo.Toml](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#explica%C3%A7%C3%A3o-do-arquivo-cargotoml)
 - [ ] Hello, World e comentários no código
 
 ### **2. A sintaxe básica**
