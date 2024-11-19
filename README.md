@@ -10,9 +10,10 @@ Pretendo alimentar aos poucos cada topico com a explicação e exercicios a medi
 ---
 
 ### **1. Introdução**
-- [ ] Porque Rust?
-- [ ] Instalando Rust
-- [ ] Vscode e extensões
+- [ ] [Porque Rust?](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#porque-rust?)
+- [ ] [Instalando Rust](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#instalando-rust)
+- [ ] [Vscode e extensões](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#vscode-e-extensões)
+- [ ] [Explicando o meu Cargo.Toml](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#explica%C3%A7%C3%A3o-do-arquivo-cargotoml)
 - [ ] Hello, World e comentários no código
 
 ### **2. A sintaxe básica**
