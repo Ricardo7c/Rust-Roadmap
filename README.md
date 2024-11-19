@@ -9,71 +9,66 @@ Pretendo alimentar aos poucos cada topico com a explicação e exercicios a medi
 
 ---
 
-### **1. Introdução**
-- [x] [Porque Rust?](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#porque-rust?)
-- [x] [Instalando Rust](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#instalando-rust)
-- [x] [Vscode e extensões](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#vscode-e-extensões)
-- [x] [Explicando o meu Cargo.Toml](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/README.md#explica%C3%A7%C3%A3o-do-arquivo-cargotoml)
-- [x] [Hello, World e comentários no código](https://github.com/Ricardo7c/Rust-Roadmap/tree/main/Topico%201%20-%20Introdu%C3%A7%C3%A3o/Hello)
 
-### **2. A sintaxe básica**
-- [ ] Variáveis
-- [ ] Tipos
-- [ ] Controle de fluxo
-- [ ] Loops
+### **1. A sintaxe básica**
+- Hello, Rust
+- Variáveis
+- Tipos
+- Controle de fluxo
+- Loops
 
-### **3. Sistema de Ownership**
-- [ ] Como funciona a memória
-- [ ] Regras de Ownership
-- [ ] Borrowing
-- [ ] Referência
-- [ ] Lifetimes
-- [ ] Fatiamento
-- [ ] Unsafe
+### **2. Sistema de Ownership**
+- Como funciona a memória
+- Regras de Ownership
+- Borrowing
+- Referência
+- Lifetimes
+- Fatiamento
+- Unsafe
 
-### **4. Programação Funcional**
-- [ ] Funções
-- [ ] Generics
-- [ ] Uso de bibliotecas
-- [ ] Option
-- [ ] Result
+### **3. Programação Funcional**
+- Funções
+- Generics
+- Uso de bibliotecas
+- Option
+- Result
 
-### **5. Tipos complexos**
-- [ ] Strings
-- [ ] Tuplas
-- [ ] Arrays
-- [ ] Vetores
+### **4. Tipos complexos**
+- Strings
+- Tuplas
+- Arrays
+- Vetores
 
-### **6. Construtores**
-- [ ] Structs
-- [ ] Impl Blocks
-- [ ] Tuple structs
-- [ ] Enumerações
+### **5. Construtores**
+- Structs
+- Impl Blocks
+- Tuple structs
+- Enumerações
 
-### **7. Interfaces ao estilo Rust (Traits)**
-- [ ] Traits
-- [ ] Trait Bounds
-- [ ] Supertraits
-- [ ] Trait Objects
-- [ ] Deriving traits
+### **6. Interfaces ao estilo Rust (Traits)**
+- Traits
+- Trait Bounds
+- Supertraits
+- Trait Objects
+- Deriving traits
 
-### **8. Estruturas de dados**
-- [ ] Pilha
-- [ ] Fila
-- [ ] Hashmap
-- [ ] Hashset
-- [ ] BinaryHeap
-- [ ] LinkedList
-- [ ] BTreeMap
-- [ ] BTreeSet
+### **7. Estruturas de dados**
+- Pilha
+- Fila
+- Hashmap
+- Hashset
+- BinaryHeap
+- LinkedList
+- BTreeMap
+- BTreeSet
 
-### **9. Lidando com erros**
-- [ ] Propagação de erros
-- [ ] Erros customizados
-- [ ] Testes
+### **8. Lidando com erros**
+- Propagação de erros
+- Erros customizados
+- Testes
 
-### **10. Módulos e Crates**
-- [ ] Organização de código
-- [ ] Publicando uma crate
+### **9. Módulos e Crates**
+- Organização de código
+- Publicando uma crate
 
 ---
