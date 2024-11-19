@@ -11,7 +11,8 @@ Pretendo alimentar aos poucos cada topico com a explicação e exercicios a medi
 
 ### **1. Introdução**
 - [ ] Porque Rust?
-- [ ] Preparando o ambiente
+- [ ] Instalando Rust
+- [ ] Vscode e extensões
 - [ ] Hello, World e comentários no código
 
 ### **2. A sintaxe básica**
