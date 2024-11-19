@@ -13,6 +13,7 @@ Pretendo alimentar aos poucos cada topico com a explicação e exercicios a medi
 - [ ] Porque Rust?
 - [ ] Instalando Rust
 - [ ] Vscode e extensões
+- [ ] Explicando o meu arquivo Toml
 - [ ] Hello, World e comentários no código
 
 ### **2. A sintaxe básica**
