@@ -107,3 +107,24 @@ O processo no macOS é semelhante ao Linux.
   ```bash
   rustup self uninstall
   ```
+  
+---
+
+### **Explicação do arquivo `Cargo.toml`**
+
+Neste roadmap, o arquivo `Cargo.toml` foi configurado manualmente para organizar múltiplos binários dentro de uma única pasta. Isso é útil para quando estou realizando exercícios e não quero ficar criando varios projetos novos. Em vez de criar um único arquivo `main.rs`, adiciono diversos arquivos `.rs` e os configuro como binários no arquivo `Cargo.toml`.
+
+  - Para rodar os exercicios, certifique-se de estar com o terminal aberto na pasta correta e pode usar o comando:
+    ```bash
+    cargo run --bin nome_do_arquivo
+    ```
+
+#### **Por que esta estrutura?**
+- **Organização:** Permite que cada exercício ou projeto tenha seu próprio arquivo binário, mantendo tudo em um único diretório.
+- **Facilidade de execução:** Usando a configuração `[[bin]]`, é possível executar cada binário individualmente, sem a necessidade de renomear ou reorganizar arquivos constantemente.
+- **Flexibilidade:** A configuração manual oferece maior controle sobre o projeto, permitindo que eu adicione ou remova binários conforme necessário sem afetar a estrutura principal do projeto.
+
+Com isso, o código fica bem organizado, e o processo de execução dos binários se torna mais direto e simples.
+
+---
+  
