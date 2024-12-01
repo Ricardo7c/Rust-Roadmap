@@ -23,7 +23,14 @@ Estou compartilhando para ajudar outros iniciantes.
 - Referência
 - Fatiamento
 
-## **3. Programação Funcional**
+## **3. Tipos complexos**
+
+- Strings
+- Tuplas
+- Arrays
+- Vetores
+
+## **4. Programação Funcional**
 
 - Funções
 - Lifetimes
@@ -31,13 +38,6 @@ Estou compartilhando para ajudar outros iniciantes.
 - Uso de bibliotecas
 - Option
 - Result
-
-## **4. Tipos complexos**
-
-- Strings
-- Tuplas
-- Arrays
-- Vetores
 
 ## **5. Construtores**
 
