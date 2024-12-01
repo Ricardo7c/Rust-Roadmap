@@ -142,4 +142,4 @@ Saída: `Comprimento médio: 4.33`
 2. **Documentação**: Consulte [a documentação do Rust](https://doc.rust-lang.org/) para se aprofundar em conceitos específicos.  
 3. **Use `cargo check`**: Teste frequentemente seu código para validar as regras de ownership.  
 
-Esses exercícios abordam os conceitos principais que você precisa entender para dominar o sistema de ownership em Rust! Se precisar de ajuda com algum exercício, é só pedir. 😊
+Esses exercícios abordam os conceitos principais que você precisa entender para dominar o sistema de ownership em Rust!
