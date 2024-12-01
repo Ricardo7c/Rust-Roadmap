@@ -2,144 +2,84 @@
 
 ---
 
-## **01. Entendendo Ownership e Borrowing**
+## **Exercício 1: Ownership e Borrowing**
 
-Crie um programa que receba uma string do usuário e determine se ela é um palíndromo. Use o sistema de **ownership** para passar a string entre funções e evite erros de compilação relacionados ao uso após mover a propriedade.
-
-**Objetivo:**  
-
-- Praticar a passagem de ownership e borrowing.  
-- Garantir que a string original não seja perdida.  
-
-**Requisitos:**  
-
-1. Crie uma função `is_palindrome` que recebe uma **referência** para a string.  
-2. Evite mover a propriedade ao longo do código.  
-
-**Exemplo de Entrada/Saída:**  
-Entrada: `"radar"`  
-Saída: `"A string 'radar' é um palíndromo."`
-
----
-
-## **02. Borrowing Mutável**
-
-Escreva um programa que construa uma frase a partir de palavras individuais. Use **referências mutáveis** para modificar o conteúdo de um `String`.
+Crie um programa que mova a propriedade de uma `String` para outra variável. Em seguida, tente acessar a variável original e observe o erro do compilador. Depois, corrija o programa utilizando uma **referência** para evitar mover a propriedade.
 
 **Objetivo:**  
 
-- Praticar a regra de uma única referência mutável por vez.  
+- Entender a movimentação de ownership e o uso de referências.  
 
-**Requisitos:**  
+**Tarefa:**  
 
-1. Inicialize uma `String` vazia.  
-2. Adicione palavras ao final da string usando uma função `adicionar_palavra`.  
-3. Use apenas **referências mutáveis** para alterar a string.  
-
-**Exemplo de Saída:**  
-Saída: `"Frase final: 'Olá mundo bonito'"`
+1. Declare uma `String` e mova sua propriedade para outra variável.  
+2. Tente usar a variável original e observe o erro.  
+3. Corrija o código usando `&` para criar uma referência.  
 
 ---
 
-## **03. Lifetimes**
+## **Exercício 2: Borrowing Mutável**
 
-Implemente uma função que retorna a maior palavra em uma fatia de string.
+Declare uma variável mutável com uma string e use uma **referência mutável** para alterar seu valor.
 
 **Objetivo:**  
 
-- Trabalhar com lifetimes explícitos.  
+- Praticar borrowing mutável.  
 
-**Requisitos:**  
+**Tarefa:**  
 
-1. Escreva uma função `maior_palavra` que recebe uma **fatia de string** (`&str`).  
-2. Retorne a referência da maior palavra encontrada.  
-
-**Exemplo de Entrada/Saída:**  
-Entrada: `"Rust é incrível"`  
-Saída: `"incrível"`
+1. Crie uma variável `mut texto` com o valor `"Rust"`.  
+2. Use uma referência mutável para alterar o valor para `"Rust é incrível"`.  
+3. Certifique-se de que a referência mutável seja usada corretamente (apenas uma de cada vez).  
 
 ---
 
-## **04. Fatiamento**
+## **Exercício 3: Fatiamento**
 
-Dado um vetor de números inteiros, divida o vetor em duas partes com base em um índice. Retorne ambas as partes usando slices.
+Declare uma string e use **slices** para imprimir partes dela.
 
 **Objetivo:**  
 
-- Praticar o uso de slices em vetores.  
+- Trabalhar com slices em strings.  
 
-**Requisitos:**  
+**Tarefa:**  
 
-1. Crie uma função `dividir_vetor` que recebe um vetor e um índice.  
-2. Retorne duas slices: a parte antes do índice e a parte depois.  
-
-**Exemplo de Entrada/Saída:**  
-Entrada: `[1, 2, 3, 4, 5]`, índice = 3  
-Saída: `Parte 1: [1, 2, 3], Parte 2: [4, 5]`
+1. Declare uma string com o valor `"Rust é fantástico!"`.  
+2. Use slices para imprimir:  
+   - As 4 primeiras letras (`"Rust"`)  
+   - As palavras `"é fantástico!"`  
 
 ---
 
-## **05. Unsafe**
+## **Exercício 4: Unsafe**
 
-Implemente uma função que copia manualmente os bytes de uma slice de inteiros para outra usando código **unsafe**.
+Implemente uma operação simples para acessar manualmente os elementos de um vetor usando código **unsafe**.
 
 **Objetivo:**  
 
-- Entender o uso de código **unsafe** e manipulação de ponteiros.  
+- Experimentar o uso de ponteiros.  
 
-**Requisitos:**  
+**Tarefa:**  
 
-1. Use ponteiros e o operador `*` para copiar elementos.  
-2. Garanta que o programa seja seguro (não cause `segmentation fault`).  
-
-**Exemplo de Entrada/Saída:**  
-Entrada: `[1, 2, 3]`  
-Saída: `[1, 2, 3] copiado com sucesso!`
+1. Declare um vetor de números inteiros `[10, 20, 30]`.  
+2. Use código `unsafe` para acessar e imprimir o primeiro e o último elemento do vetor.  
 
 ---
 
-## **06. Regras de Ownership**
+## **Exercício 5: Ownership em Coleções**
 
-Escreva um programa que simula um estoque. Cada item possui um nome e uma quantidade. Use um `HashMap` para armazenar os itens e suas quantidades.
+Declare um vetor com números inteiros e mova a propriedade do vetor para outra variável. Tente acessar a variável original e observe o erro.
 
 **Objetivo:**  
 
-- Consolidar as regras de ownership no uso de coleções.  
+- Fixar o conceito de ownership com coleções.  
 
-**Requisitos:**  
+**Tarefa:**  
 
-1. Crie uma função `adicionar_item` que recebe o nome do item e o valor a ser adicionado.  
-2. Use borrowing para evitar mover o `HashMap`.  
-
-**Exemplo de Saída:**  
-Entrada: `"Maçã, 10"`  
-Saída: `"Estoque: {'Maçã': 10}"`
+1. Declare um vetor `[1, 2, 3, 4, 5]`.  
+2. Mova o vetor para outra variável.  
+3. Tente acessar o vetor original e veja o erro do compilador.  
 
 ---
 
-## **07. Misturando Conceitos**
-
-Desenvolva um programa que calcula o comprimento médio das palavras em uma frase, excluindo os espaços.
-
-**Objetivo:**  
-
-- Trabalhar com referências, slices e lifetimes.  
-
-**Requisitos:**  
-
-1. Use uma função para dividir a frase em palavras.  
-2. Retorne o comprimento médio como `f64`.  
-
-**Exemplo de Entrada/Saída:**  
-Entrada: `"Rust é divertido"`  
-Saída: `Comprimento médio: 4.33`
-
----
-
-## Dicas para Resolver
-
-1. **Compilador é seu amigo**: Se algo não funcionar, leia atentamente as mensagens de erro do Rust. Elas normalmente explicam como resolver o problema.  
-2. **Documentação**: Consulte [a documentação do Rust](https://doc.rust-lang.org/) para se aprofundar em conceitos específicos.  
-3. **Use `cargo check`**: Teste frequentemente seu código para validar as regras de ownership.  
-
-Esses exercícios abordam os conceitos principais que você precisa entender para dominar o sistema de ownership em Rust!
+Esses exercícios estão simplificados para que você foque nos conceitos essenciais de ownership, borrowing e slices.
