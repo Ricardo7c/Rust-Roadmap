@@ -3,6 +3,8 @@
 Este roadmap foi criado por mim para auxiliar nos meus estudos em Rust.
 Estou compartilhando para ajudar outros iniciantes.
 
+Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico.
+
 🚀 **Pronto para começar sua jornada com Rust?**
 
 ---
