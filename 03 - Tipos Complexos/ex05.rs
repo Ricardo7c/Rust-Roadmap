@@ -4,7 +4,7 @@ fn main(){
     for cada in lista{
         soma += cada.1
     }
-
+    
     println!("Preço total: {}", soma);
 
 }
