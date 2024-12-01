@@ -21,13 +21,12 @@ Estou compartilhando para ajudar outros iniciantes.
 - Regras de Ownership
 - Borrowing
 - Referência
-- Lifetimes
 - Fatiamento
-- Unsafe
 
 ## **3. Programação Funcional**
 
 - Funções
+- Lifetimes
 - Generics
 - Uso de bibliotecas
 - Option
@@ -68,6 +67,7 @@ Estou compartilhando para ajudar outros iniciantes.
 
 ## **8. Lidando com erros**
 
+- Unsafe
 - Propagação de erros
 - Erros customizados
 - Testes
