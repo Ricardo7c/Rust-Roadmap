@@ -33,3 +33,11 @@ path = "ex06.rs"
 name = "ex07"
 path = "ex07.rs"
 
+[[bin]]
+name = "ex08"
+path = "ex08.rs"
+
+[[bin]]
+name = "ex09"
+path = "ex09.rs"
+
