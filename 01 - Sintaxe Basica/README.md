@@ -18,7 +18,7 @@
    Declare uma variável `idade` do tipo `u32`, atribua o valor 25 e imprima.
 
 **4. Mutabilidade:**  
-   Crie uma variável mutável `contador`, inicialize com 0 e incremente seu valor até 5, imprimindo o valor em cada passo.
+   Crie uma variável mutável `contador`, inicialize com 1 e incremente seu valor com mais 5 e exiba.
 
 **5. Sombra de variáveis:**  
    Declare uma variável `texto` com valor `"inicial"`, e depois use *shadowing* para alterar o valor para `"final"`. Imprima ambos os estados.
