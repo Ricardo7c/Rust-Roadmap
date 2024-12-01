@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # A sintaxe básica
+=======
+### 01 - A SINTAXE BÁSICA
+>>>>>>> 13c77b64d010659d3368afedf4b3d991942f0397
 
 ---
 
