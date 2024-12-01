@@ -31,8 +31,7 @@
    Converta uma variável `x` do tipo `f64` para `u32` e imprima os dois valores.
 
 **7. Operações matemáticas:**  
-<<<<<<< HEAD
-    Crie um programa que calcula a área de um círculo dado um raio de 5. Use `f64` para o raio e a constante `PI`.
+    Crie um programa que calcula a área de um círculo dado um raio de 5. Use `f64` para o raio e a constante `PI`.  
     Fomula Matematica: `A = π.r²`
 
 **8. Tipos booleanos:**  
