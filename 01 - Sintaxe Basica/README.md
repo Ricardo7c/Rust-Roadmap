@@ -35,7 +35,7 @@
     Fomula Matematica: `A = π.r²`
 
 **8. Tipos booleanos:**  
-    Declare duas variáveis booleanas (`verdade` e `falso`) e imprima o resultado de `verdade && falso` e `verdade || falso`.
+    Declare duas variáveis booleanas (`true` e `false`) e imprima o resultado de `true && false` e `true || false`.
 
 ---
 
