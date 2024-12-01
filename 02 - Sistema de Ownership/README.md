@@ -51,35 +51,4 @@ Declare uma string e use **slices** para imprimir partes dela.
 
 ---
 
-## **Exercício 4: Unsafe**
-
-Implemente uma operação simples para acessar manualmente os elementos de um vetor usando código **unsafe**.
-
-**Objetivo:**  
-
-- Experimentar o uso de ponteiros.  
-
-**Tarefa:**  
-
-1. Declare um vetor de números inteiros `[10, 20, 30]`.  
-2. Use código `unsafe` para acessar e imprimir o primeiro e o último elemento do vetor.  
-
----
-
-## **Exercício 5: Ownership em Coleções**
-
-Declare um vetor com números inteiros e mova a propriedade do vetor para outra variável. Tente acessar a variável original e observe o erro.
-
-**Objetivo:**  
-
-- Fixar o conceito de ownership com coleções.  
-
-**Tarefa:**  
-
-1. Declare um vetor `[1, 2, 3, 4, 5]`.  
-2. Mova o vetor para outra variável.  
-3. Tente acessar o vetor original e veja o erro do compilador.  
-
----
-
 Esses exercícios estão simplificados para que você foque nos conceitos essenciais de ownership, borrowing e slices.
