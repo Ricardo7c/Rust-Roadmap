@@ -1,7 +1,5 @@
 # **O Sistema de Ownership**
 
----
-
 ## **Exercício 1: Ownership e Borrowing**
 
 Crie um programa que mova a propriedade de uma `String` para outra variável. Em seguida, tente acessar a variável original e observe o erro do compilador. Depois, corrija o programa utilizando uma **referência** para evitar mover a propriedade.

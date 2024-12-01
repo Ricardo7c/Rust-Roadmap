@@ -1,7 +1,5 @@
 # A sintaxe básica
 
----
-
 ## **Hello, Rust**
 
 **1. Primeiro programa com `fn main`:**  

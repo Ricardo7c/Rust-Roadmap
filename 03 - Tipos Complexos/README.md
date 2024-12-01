@@ -1,7 +1,5 @@
 # Tipos Complexos
 
----
-
 ## **01. Trabalhando com Strings**  
 
 Crie um programa que concatene duas strings e imprima o resultado.  
