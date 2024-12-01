@@ -39,7 +39,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Option
 - Result
 
-## 5. Construtores
+## 5. Construtores - [Exercícios]
 
 - Structs
 - Impl Blocks
@@ -54,7 +54,19 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Trait Objects
 - Deriving traits
 
-## 7. Estruturas de dados
+## 7. Lidando com erros
+
+- Unsafe
+- Propagação de erros
+- Erros customizados
+- Testes
+
+## 8. Módulos e Crates
+
+- Organização de código
+- Publicando uma crate
+
+## 10. Estruturas de dados
 
 - Pilha
 - Fila
@@ -64,17 +76,5 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - LinkedList
 - BTreeMap
 - BTreeSet
-
-## 8. Lidando com erros
-
-- Unsafe
-- Propagação de erros
-- Erros customizados
-- Testes
-
-## 9. Módulos e Crates
-
-- Organização de código
-- Publicando uma crate
 
 ---
