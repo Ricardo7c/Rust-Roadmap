@@ -1,11 +1,6 @@
 fn main(){
-    let mut cont = 3;
-    loop {
-        if cont == 0{
-            println!("Saiu do loop");
-            break;
-        }
-        println!("Olá, loop");
-        cont -= 1;
-    }
+    let a = 4;
+    let b = 6;
+    let maior = if a > b {a}else{b};
+    println!("{} é o maior valor", maior);
 }
