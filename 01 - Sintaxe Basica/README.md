@@ -78,4 +78,4 @@
 
 ---
 
-Cada exercício apresenta um desafio direto baseado no tópico correspondente. Se precisar de algum detalhamento ou exemplos mais elaborados, é só avisar! 😊
+Cada exercício apresenta um desafio direto baseado no tópico correspondente.
