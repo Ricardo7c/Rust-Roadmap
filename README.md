@@ -7,7 +7,7 @@ Estou compartilhando para ajudar outros iniciantes.
 
 ---
 
-## **1. A sintaxe básica**
+## 1. A sintaxe básica -  [Exercicios](https://github.com/Ricardo7c/Rust-Roadmap/tree/50f03dd0d577526c0cccbc0fcc9814516a229fbf/01%20-%20Sintaxe%20Basica)
 
 - Hello, Rust
 - Variáveis
