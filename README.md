@@ -46,7 +46,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Tuple structs
 - Enumerações
 
-## 6. Interfaces ao estilo Rust (Traits)
+## 6. Interfaces ao estilo Rust (Traits) - [Exercícios]
 
 - Traits
 - Trait Bounds
@@ -54,19 +54,19 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Trait Objects
 - Deriving traits
 
-## 7. Lidando com erros
+## 7. Lidando com erros - [Exercícios]
 
 - Unsafe
 - Propagação de erros
 - Erros customizados
 - Testes
 
-## 8. Módulos e Crates
+## 8. Módulos e Crates - [Exercícios]
 
 - Organização de código
 - Publicando uma crate
 
-## 10. Estruturas de dados
+## 10. Estruturas de dados - [Exercícios]
 
 - Pilha
 - Fila
