@@ -134,7 +134,7 @@ Array ordenado: [1, 1, 3, 4, 5, 9]
 
 ---
 
-## **Exercício 7: Filtrando um Vetor**  
+## **07. Filtrando um Vetor**  
 
 Dado um vetor de números inteiros, crie um novo vetor contendo apenas os números pares.  
 
