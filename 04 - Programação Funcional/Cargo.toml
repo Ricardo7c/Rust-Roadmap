@@ -5,3 +5,7 @@ name = "ProgramacaoFuncional"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "ex01"
+path = "ex01.rs"
+
