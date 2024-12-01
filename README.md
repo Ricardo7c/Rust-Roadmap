@@ -7,15 +7,16 @@ Estou compartilhando para ajudar outros iniciantes.
 
 ---
 
+## **1. A sintaxe básica**
 
-### **1. A sintaxe básica**
 - Hello, Rust
 - Variáveis
 - Tipos
 - Controle de fluxo
 - Loops
 
-### **2. Sistema de Ownership**
+## **2. Sistema de Ownership**
+
 - Como funciona a memória
 - Regras de Ownership
 - Borrowing
@@ -24,33 +25,38 @@ Estou compartilhando para ajudar outros iniciantes.
 - Fatiamento
 - Unsafe
 
-### **3. Programação Funcional**
+## **3. Programação Funcional**
+
 - Funções
 - Generics
 - Uso de bibliotecas
 - Option
 - Result
 
-### **4. Tipos complexos**
+## **4. Tipos complexos**
+
 - Strings
 - Tuplas
 - Arrays
 - Vetores
 
-### **5. Construtores**
+## **5. Construtores**
+
 - Structs
 - Impl Blocks
 - Tuple structs
 - Enumerações
 
-### **6. Interfaces ao estilo Rust (Traits)**
+## **6. Interfaces ao estilo Rust (Traits)**
+
 - Traits
 - Trait Bounds
 - Supertraits
 - Trait Objects
 - Deriving traits
 
-### **7. Estruturas de dados**
+## **7. Estruturas de dados**
+
 - Pilha
 - Fila
 - Hashmap
@@ -60,12 +66,14 @@ Estou compartilhando para ajudar outros iniciantes.
 - BTreeMap
 - BTreeSet
 
-### **8. Lidando com erros**
+## **8. Lidando com erros**
+
 - Propagação de erros
 - Erros customizados
 - Testes
 
-### **9. Módulos e Crates**
+## **9. Módulos e Crates**
+
 - Organização de código
 - Publicando uma crate
 
