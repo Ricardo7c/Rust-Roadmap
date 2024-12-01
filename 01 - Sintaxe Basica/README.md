@@ -4,10 +4,10 @@
 
 ## **Hello, Rust**
 
-1. **Primeiro programa com `fn main`:**  
+**1. Primeiro programa com `fn main`:**  
    Escreva um programa que imprima "Olá, mundo!" usando a função `main`.
 
-2. **Imprima emojis:**  
+**2. Imprima emojis:**  
    Modifique o programa anterior para imprimir "Rust é 💖".
 
 ---
