@@ -23,7 +23,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Referência
 - Fatiamento
 
-## 3. Tipos complexos - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/e66da4b076b0d625c81c495eff6768ef29275330/03%20-%20Tipos%20Complexos)
+## 3. Tipos complexos - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/e66da4b076b0d625c81c495eff6768ef29275330/03%20-%20Tipos%20Complexos/README.md)
 
 - Strings
 - Tuplas
