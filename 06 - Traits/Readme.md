@@ -154,6 +154,8 @@ Implemente uma *trait* `Notificacao`, que tem um método `enviar`, o qual imprim
 2. No `main`, crie um vetor `Vec<Box<dyn Notificacao>>` contendo uma instância de `Email` e uma de `SMS`.
 3. Crie uma função `enviar_notificacoes` que recebe essa lista e chama `enviar` para cada notificação.
 
+---
+
 ## 21. Implementando `Debug`
 
 **Objetivo:** Aprender a derivar e utilizar a trait `Debug`.
@@ -174,6 +176,8 @@ Implemente uma *trait* `Notificacao`, que tem um método `enviar`, o qual imprim
 ```rust
 Livro { _titulo: "1984", _autor: "George Orwell", _paginas: 328 }
 ```
+
+---
 
 ## 22. Comparando Estruturas com `PartialEq`
 
@@ -196,6 +200,8 @@ Livro { _titulo: "1984", _autor: "George Orwell", _paginas: 328 }
 As duas pessoas são diferentes.
 
 ```
+
+---
 
 ## 23. Criando uma Enum com `Copy` e `Clone`
 
