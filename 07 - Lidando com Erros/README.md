@@ -2,15 +2,17 @@
 
 ---
 
-## 01. Propagação de Erros com `Result`  
+## 01. Propagação de Erros com `Result`
 
 **Objetivo**: Implementar funções que propaguem erros usando o tipo `Result`.  
 **Instruções**:  
 
-- Crie uma função `read_file` que tenta ler o conteúdo de um arquivo e retorna `Result<String, std::io::Error>`.  
-- Use a função `std::fs::read_to_string` para ler o arquivo e propague possíveis erros usando `?`.  
-- Chame a função em `main` e trate o erro, exibindo uma mensagem amigável ao usuário.  
-**Saída esperada**: Se o arquivo não existir, exiba algo como: *"Erro: O arquivo não pôde ser lido."*  
+- Crie uma função `parse_input` que recebe uma string e tenta convertê-la para um número do tipo `i32`.  
+- Use o método `parse::<i32>()` para a conversão e propague possíveis erros com `?`.  
+- No `main`, chame a função com uma entrada fornecida e trate o erro, exibindo uma mensagem amigável ao usuário.  
+**Saída esperada**:  
+- Para entradas inválidas (como "abc"), exiba *"Erro: A entrada fornecida não é válida."*.  
+- Para entradas válidas, exiba *"Número válido: <número>"*.  
 
 ---
 
