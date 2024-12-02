@@ -7,7 +7,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 🚀 **Pronto para começar sua jornada com Rust?**
 
-## 1. A sintaxe básica -  [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/50f03dd0d577526c0cccbc0fcc9814516a229fbf/01%20-%20Sintaxe%20Basica%2FREADME.md)
+## 1. A sintaxe básica -  [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/01%20-%20Sintaxe%20Basica/README.md)
 
 - Hello, Rust
 - Variáveis
@@ -15,7 +15,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Controle de fluxo
 - Loops
 
-## 2. Sistema de Ownership - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/e66da4b076b0d625c81c495eff6768ef29275330/02%20-%20Sistema%20de%20Ownership%2FREADME.md)
+## 2. Sistema de Ownership - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/02%20-%20Sistema%20de%20Ownership/README.md)
 
 - Como funciona a memória
 - Regras de Ownership
@@ -23,14 +23,14 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Referência
 - Fatiamento
 
-## 3. Tipos complexos - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/e66da4b076b0d625c81c495eff6768ef29275330/03%20-%20Tipos%20Complexos%2FREADME.md)
+## 3. Tipos complexos - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/03%20-%20Tipos%20Complexos/README.md)
 
 - Strings
 - Tuplas
 - Arrays
 - Vetores
 
-## 4. Programação Funcional - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/e66da4b076b0d625c81c495eff6768ef29275330/04%20-%20Programa%C3%A7%C3%A3o%20Funcional%2FREADME.md)
+## 4. Programação Funcional - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/04%20-%20Programa%C3%A7%C3%A3o%20Funcional/README.md)
 
 - Funções
 - Lifetimes
