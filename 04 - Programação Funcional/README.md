@@ -1,6 +1,6 @@
 # Programação Funcional
 
-## **Exercício 1: Trabalhando com Funções**
+## 01. Trabalhando com Funções
 
 Escreva uma função que recebe dois números inteiros e retorna o maior deles.
 
@@ -21,7 +21,7 @@ Saída: `"O maior número é 10"`
 
 ---
 
-## **Exercício 2: Usando Lifetimes**
+## 02. Usando Lifetimes
 
 Implemente uma função que retorna a menor palavra em uma frase usando lifetimes explícitos.
 
@@ -40,7 +40,7 @@ Saída: `"é"`
 
 ---
 
-## **Exercício 3: Trabalhando com Generics**
+## 03. Trabalhando com Generics
 
 Implemente uma função que recebe um vetor de qualquer tipo e retorna o primeiro elemento.
 
@@ -59,23 +59,31 @@ Saída: `"Primeiro elemento: 10"`
 
 ---
 
-## **Exercício 4: Uso de Bibliotecas**
+## 04. Uso de Bibliotecas
 
-Use a biblioteca `rand` para gerar um número aleatório entre 1 e 100. Peça ao usuário para adivinhar o número.
+Usar a biblioteca `text-input` para pedir ao usuário seu nome e exibir uma saudação personalizada.
 
 **Objetivo:**  
 
-- Aprender a adicionar e usar bibliotecas no projeto.  
+- Aprender a adicionar e usar bibliotecas no projeto.
 
-**Requisitos:**  
+**Instruções:**
 
-1. Configure o `Cargo.toml` para incluir a biblioteca `rand`.  
-2. Gere um número aleatório entre 1 e 100.  
-3. Compare a entrada do usuário com o número gerado e exiba mensagens como "Muito alto" ou "Muito baixo".  
+1. Adicione a biblioteca `text-input` ao seu `Cargo.toml`.
+2. Use a função `text()` para pedir ao usuário seu nome.
+3. Exiba uma mensagem de saudação no formato: `"Olá, [nome]! Seja bem-vindo!"`.
+
+**Exemplo de Entrada/Saída:**
+
+Entrada:  
+"Qual é o seu nome?"
+
+Saída:  
+"Olá, João! Seja bem-vindo!"
 
 ---
 
-## **Exercício 5: Trabalhando com `Option`**
+## 05. Trabalhando com `Option`
 
 Crie uma função que recebe um vetor de números inteiros e retorna o maior número como um `Option<i32>`.
 
@@ -94,7 +102,7 @@ Saída: `"Maior número: 9"`
 
 ---
 
-## **Exercício 6: Trabalhando com `Result`**
+## 06. Trabalhando com `Result`
 
 Implemente um programa que leia um arquivo texto e conte o número de linhas. Use `Result` para tratar erros, como o arquivo não existir.
 
@@ -117,7 +125,7 @@ Caso o arquivo não exista:
 
 ---
 
-## **Exercício 7: Misturando Conceitos**
+## 07. Misturando Conceitos
 
 Crie uma função genérica que filtra os elementos de um vetor com base em um predicado passado como argumento.
 
