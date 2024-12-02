@@ -39,14 +39,14 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Option
 - Result
 
-## 5. Construtores - [Exercícios]
+## 5. Structs - [Exercícios]
 
 - Structs
 - Impl Blocks
 - Tuple structs
 - Enumerações
 
-## 6. Interfaces ao estilo Rust (Traits) - [Exercícios]
+## 6. Traits - [Exercícios]
 
 - Traits
 - Trait Bounds
