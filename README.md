@@ -7,7 +7,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 🚀 **Pronto para começar sua jornada com Rust?**
 
-## 1. A sintaxe básica -  [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/50f03dd0d577526c0cccbc0fcc9814516a229fbf/01%20-%20Sintaxe%20Basica)
+## 1. A sintaxe básica -  [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/tree/50f03dd0d577526c0cccbc0fcc9814516a229fbf/01%20-%20Sintaxe%20Basica%2FREADME.md)
 
 - Hello, Rust
 - Variáveis
