@@ -1,4 +1,5 @@
 [dependencies]
+text-input = "*"
 
 [package]
 name = "ProgramacaoFuncional"
@@ -16,4 +17,8 @@ path = "ex02.rs"
 [[bin]]
 name = "ex03"
 path = "ex03.rs"
+
+[[bin]]
+name = "ex04"
+path = "ex04.rs"
 

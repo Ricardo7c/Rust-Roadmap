@@ -73,14 +73,6 @@ Usar a biblioteca `text-input` para pedir ao usuário seu nome e exibir uma saud
 2. Use a função `text()` para pedir ao usuário seu nome.
 3. Exiba uma mensagem de saudação no formato: `"Olá, [nome]! Seja bem-vindo!"`.
 
-**Exemplo de Entrada/Saída:**
-
-Entrada:  
-"Qual é o seu nome?"
-
-Saída:  
-"Olá, João! Seja bem-vindo!"
-
 ---
 
 ## 05. Trabalhando com `Option`
