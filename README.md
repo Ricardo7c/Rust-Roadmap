@@ -46,7 +46,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Tuple structs
 - Enumerações
 
-## 6. Traits - [Exercícios]
+## 6. Traits - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/06%20-%20Traits/Readme.md)
 
 - Traits
 - Trait Bounds
