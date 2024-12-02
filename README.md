@@ -62,7 +62,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Trait Objects
 - Deriving traits
 
-## 7. Lidando com erros - [Exercícios]
+## 7. Lidando com erros - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/07%20-%20Lidando%20com%20Erros/README.md)
 
 - Propagação de erros
 - Erros customizados
