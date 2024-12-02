@@ -1,0 +1,87 @@
+[dependencies]
+
+[package]
+name = "Traits"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "Ex01"
+path = "Ex01.rs"
+
+[[bin]]
+name = "Ex02"
+path = "Ex02.rs"
+
+[[bin]]
+name = "Ex03"
+path = "Ex03.rs"
+
+[[bin]]
+name = "Ex04"
+path = "Ex04.rs"
+
+[[bin]]
+name = "Ex05"
+path = "Ex05.rs"
+
+[[bin]]
+name = "Ex06"
+path = "Ex06.rs"
+
+[[bin]]
+name = "Ex07"
+path = "Ex07.rs"
+
+[[bin]]
+name = "Ex08"
+path = "Ex08.rs"
+
+[[bin]]
+name = "Ex09"
+path = "Ex09.rs"
+
+[[bin]]
+name = "Ex10"
+path = "Ex10.rs"
+
+[[bin]]
+name = "Ex11"
+path = "Ex11.rs"
+
+[[bin]]
+name = "Ex12"
+path = "Ex12.rs"
+
+[[bin]]
+name = "Ex13"
+path = "Ex13.rs"
+
+[[bin]]
+name = "Ex14"
+path = "Ex14.rs"
+
+[[bin]]
+name = "Ex15"
+path = "Ex15.rs"
+
+[[bin]]
+name = "Ex16"
+path = "Ex16.rs"
+
+[[bin]]
+name = "Ex17"
+path = "Ex17.rs"
+
+[[bin]]
+name = "Ex18"
+path = "Ex18.rs"
+
+[[bin]]
+name = "Ex19"
+path = "Ex19.rs"
+
+[[bin]]
+name = "Ex20"
+path = "Ex20.rs"
+
