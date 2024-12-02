@@ -153,3 +153,71 @@ Implemente uma *trait* `Notificacao`, que tem um método `enviar`, o qual imprim
    - Em `SMS`, deve imprimir `"Enviando SMS de notificação."`
 2. No `main`, crie um vetor `Vec<Box<dyn Notificacao>>` contendo uma instância de `Email` e uma de `SMS`.
 3. Crie uma função `enviar_notificacoes` que recebe essa lista e chama `enviar` para cada notificação.
+
+## 21. Implementando `Debug`
+
+**Objetivo:** Aprender a derivar e utilizar a trait `Debug`.
+
+1. Crie uma estrutura chamada `Livro` com os campos:
+   - `_titulo`: String
+   - `_autor`: String
+   - `_paginas`: u32
+
+2. Derive a trait `Debug` para a estrutura.
+
+3. No programa principal:
+   - Instancie um objeto da estrutura `Livro`.
+   - Use o `println!` para exibir os detalhes do livro com `:?`.
+
+**Saída Esperada:**
+
+```rust
+Livro { _titulo: "1984", _autor: "George Orwell", _paginas: 328 }
+```
+
+## 22. Comparando Estruturas com `PartialEq`
+
+**Objetivo:** Entender como derivar a trait `PartialEq` para comparar instâncias de uma estrutura.
+
+1. Crie uma estrutura chamada `Pessoa` com os campos:
+   - `nome`: String
+   - `idade`: u8
+
+2. Derive a trait `PartialEq` para a estrutura.
+
+3. No programa principal:
+   - Instancie dois objetos `Pessoa`.
+   - Compare as duas instâncias usando `==` e imprima uma mensagem indicando se são iguais.
+
+**Saída Esperada:**
+
+```rust
+
+As duas pessoas são diferentes.
+
+```
+
+## 23. Criando uma Enum com `Copy` e `Clone`
+
+**Objetivo:** Aprender a derivar as traits `Copy` e `Clone` para um tipo enumerado.
+
+1. Crie uma enumeração chamada `Cor` com as variantes:
+   - `_Vermelho`
+   - `_Verde`
+   - `_Azul`
+
+2. Derive as traits `Copy`, `Clone` e `Debug` para a enumeração.
+
+3. No programa principal:
+   - Crie uma variável `c1` do tipo `Cor` e atribua a ela o valor `Cor::_Vermelho`.
+   - Use `c1` para criar uma nova variável `c2` (sem usar referências).
+   - Imprima ambas as variáveis.
+
+**Saída Esperada:**
+
+```rust
+_Vermelho
+_Vermelho
+```
+
+---
