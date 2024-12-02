@@ -7,6 +7,12 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 🚀 **Pronto para começar sua jornada com Rust?**
 
+---
+
+## NÍVEL BÁSICO
+
+---
+
 ## 1. A sintaxe básica -  [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/01%20-%20Sintaxe%20Basica/README.md)
 
 - Hello, Rust
@@ -39,6 +45,12 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Option
 - Result
 
+---
+
+## NÍVEL INTERMEDIÁRIO
+
+---
+
 ## 5. Structs e Enums - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/05%20-%20Structs/README.md)
 
 - Structs
@@ -65,6 +77,12 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 - Organização de código
 - Publicando uma crate
+
+---
+
+## NÍVEL AVANÇADO
+
+---
 
 ## 10. Estruturas de dados - [Exercícios]
 
