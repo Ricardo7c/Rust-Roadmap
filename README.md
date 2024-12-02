@@ -64,7 +64,6 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ## 7. Lidando com erros - [Exercícios]
 
-- Unsafe
 - Propagação de erros
 - Erros customizados
 - Testes
