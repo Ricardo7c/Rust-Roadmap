@@ -25,3 +25,23 @@ path = "ex04.rs"
 [[bin]]
 name = "ex05"
 path = "ex05.rs"
+[[bin]]
+name = "ex06"
+path = "ex06.rs"
+
+[[bin]]
+name = "ex07"
+path = "ex07.rs"
+
+[[bin]]
+name = "ex08"
+path = "ex08.rs"
+
+[[bin]]
+name = "ex09"
+path = "ex09.rs"
+
+[[bin]]
+name = "ex10"
+path = "ex10.rs"
+
