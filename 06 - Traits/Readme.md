@@ -1,4 +1,4 @@
-# Exercícios para praticar o uso de traits em Rust
+# Traits
 
 ## 1. Implementando uma *trait* simples
 

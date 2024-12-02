@@ -39,7 +39,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 - Option
 - Result
 
-## 5. Structs - [Exercícios]
+## 5. Structs e Enums - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/05%20-%20Structs/README.md)
 
 - Structs
 - Impl Blocks

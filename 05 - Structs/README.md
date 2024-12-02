@@ -1,4 +1,4 @@
-# Structs e Enuns
+# Structs e Enums
 
 ## 01. Definição e Instanciação de Structs
 
