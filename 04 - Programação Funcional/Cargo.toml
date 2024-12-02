@@ -9,3 +9,7 @@ edition = "2021"
 name = "ex01"
 path = "ex01.rs"
 
+[[bin]]
+name = "ex02"
+path = "ex02.rs"
+
