@@ -1,17 +1,13 @@
-use std::fs::File;
-use std::io::Read;
+use std::fs;
 
 fn read_file(arquivo: &str) -> Result<String, std::io::Error> {
-    let mut file = File::open(arquivo)?;
-    let mut conteudo = String::new();
-    file.read_to_string(&mut conteudo)?;
-    Ok(conteudo)
+    fs::read_to_string(arquivo)
 }
 
 fn main() {
     let arquivo = "Arquivo.txt";
     match read_file(arquivo) {
         Ok(conteudo) => println!("{}", conteudo),
-        Err(_) => println!("O aquivo não pode ser lido")
+        Err(err) => eprintln!("Erro: {}", err),
     }
 }
