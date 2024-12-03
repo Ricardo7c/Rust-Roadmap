@@ -45,7 +45,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ---
 
-### Aqui se encerra o nível básico do roadmap. Certifique-se de resolver todos os exercícios antes de prosseguir. Se ainda não se sente confiante em algum dos assuntos tratados até aqui, sugiro que faça uma revisão antes de avançar. Uma dúvida ignorada neste nível básico pode dificultar o entendimento de temas mais complexos no próximo nível.
+### Aqui se encerra o nível básico do roadmap. Certifique-se de resolver todos os exercícios antes de prosseguir. Se ainda não se sente confiante em algum dos assuntos tratados até aqui, sugiro que faça uma revisão antes de avançar. Uma dúvida ignorada neste nível básico pode dificultar o entendimento de temas mais complexos no próximo nível
 
 ---
 
@@ -79,8 +79,14 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ---
 
-### Você acaba de chegar ao final do nível intermediário do roadmap de Rust. Com o conhecimento adquirido até aqui, você já está apto a construir bibliotecas e aplicações CLI simples em Rust. Parabéns!
+### Você acaba de chegar ao final do nível intermediário do roadmap de Rust. Com o conhecimento adquirido até aqui, você já está apto a construir bibliotecas e aplicações CLI simples em Rust. Parabéns
 
-### Agora é o momento ideal para começar a criar seu portfólio e explorar assuntos mais avançados da linguagem. Abaixo, deixo alguns exemplos de projetos para você praticar.
+### Agora é o momento ideal para começar a criar seu portfólio e explorar assuntos mais avançados da linguagem. Abaixo, deixo alguns exemplos de projetos para você praticar
+
+## Projetos de Nivel Basico/Intermediario
+
+- Desenvolvimento de uma pequena biblioteca - [Meu Projeto](https://github.com/Ricardo7c/Text-input)
+- Conversor de unidades ou calculadora científica
+- Ferramenta CLI de gerenciamento de tarefas
 
 ---
