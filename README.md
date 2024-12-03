@@ -79,17 +79,8 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ---
 
-## NÍVEL AVANÇADO
+### Você acaba de chegar ao final do nível intermediário do roadmap de Rust. Com o conhecimento adquirido até aqui, você já está apto a construir bibliotecas e aplicações CLI simples em Rust. Parabéns!
 
-## 10. Estruturas de dados - [Exercícios]
-
-- Pilha
-- Fila
-- Hashmap
-- Hashset
-- BinaryHeap
-- LinkedList
-- BTreeMap
-- BTreeSet
+### Agora é o momento ideal para começar a criar seu portfólio e explorar assuntos mais avançados da linguagem. Abaixo, deixo alguns exemplos de projetos para você praticar.
 
 ---
