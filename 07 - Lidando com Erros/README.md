@@ -10,7 +10,6 @@
 - Crie uma função `read_file` que tenta ler o conteúdo de um arquivo e retorna `Result<String, std::io::Error>`.  
 - Use a função `std::fs::read_to_string` para ler o arquivo e propague possíveis erros usando `?`.  
 - Chame a função em `main` e trate o erro, exibindo uma mensagem amigável ao usuário.  
-**Saída esperada**: Se o arquivo não existir, exiba algo como: *"Erro: O sistema não pode encontrar o arquivo especificado."*  
 
 ---
 
@@ -21,9 +20,8 @@
 
 - Crie uma função `parse_number` que recebe uma string e converte para `i32`.  
 - Crie outra função `calculate_square` que calcula o quadrado do número convertido.  
-- Propague erros em ambas as funções usando `Result`.  
-**Saída esperada**: Se a entrada for inválida, exiba uma mensagem como *"Erro: Entrada inválida para cálculo."*.  
-
+- Propague erros em ambas as funções usando `Result`.
+  
 ---
 
 ## 03. Erro Customizado Simples  
@@ -33,7 +31,6 @@
 
 - Crie um `enum` chamado `MathError` com dois casos: `DivisionByZero` e `NegativeNumber`.  
 - Implemente a função `divide` que retorna `Result<f64, MathError>` e retorna `Err` em divisões por zero.  
-**Saída esperada**: *"Erro: Divisão por zero."*  
 
 ---
 
