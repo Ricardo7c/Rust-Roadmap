@@ -45,6 +45,10 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ---
 
+### Aqui se encerra o nivel basico do roadmap, certifique-se de resolver todos os exercicios antes de prosseguir, se ainda não esta confiante em algum dos assuntos tratados até aqui, segiro que faça uma revisão antes de prosseguir. uma duvida ignorada aqui no nivel basico, pode dificultar o entendimento dos assuntos mais complexos do proximo nivel.
+
+---
+
 ## NÍVEL INTERMEDIÁRIO
 
 ## 5. Structs e Enums - [Exercícios](https://github.com/Ricardo7c/Rust-Roadmap/blob/main/05%20-%20Structs/README.md)
