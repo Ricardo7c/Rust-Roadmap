@@ -10,7 +10,7 @@
 - Crie uma função `read_file` que tenta ler o conteúdo de um arquivo e retorna `Result<String, std::io::Error>`.  
 - Use a função `std::fs::read_to_string` para ler o arquivo e propague possíveis erros usando `?`.  
 - Chame a função em `main` e trate o erro, exibindo uma mensagem amigável ao usuário.  
-**Saída esperada**: Se o arquivo não existir, exiba algo como: *"Erro: O arquivo não pôde ser lido."*  
+**Saída esperada**: Se o arquivo não existir, exiba algo como: *"Erro: O sistema não pode encontrar o arquivo especificado."*  
 
 ---
 
