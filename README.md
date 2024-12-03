@@ -5,7 +5,7 @@ Estou compartilhando para ajudar outros iniciantes.
 
 Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico.
 
-Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido antes de partir para o proximo.
+Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido completamente antes de partir para o proximo.
 
 🚀 **Pronto para começar sua jornada com Rust?**
 
