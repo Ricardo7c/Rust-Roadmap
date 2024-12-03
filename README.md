@@ -45,7 +45,7 @@ Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico
 
 ---
 
-### Aqui se encerra o nivel basico do roadmap, certifique-se de resolver todos os exercicios antes de prosseguir, se ainda não esta confiante em algum dos assuntos tratados até aqui, segiro que faça uma revisão antes de prosseguir. uma duvida ignorada aqui no nivel basico, pode dificultar o entendimento dos assuntos mais complexos do proximo nivel.
+### Aqui se encerra o nível básico do roadmap. Certifique-se de resolver todos os exercícios antes de prosseguir. Se ainda não se sente confiante em algum dos assuntos tratados até aqui, sugiro que faça uma revisão antes de avançar. Uma dúvida ignorada neste nível básico pode dificultar o entendimento de temas mais complexos no próximo nível.
 
 ---
 
