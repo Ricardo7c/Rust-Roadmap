@@ -12,6 +12,6 @@ fn main() {
     let arquivo = "Arquivo.txt";
     match read_file(arquivo) {
         Ok(conteudo) => println!("{}", conteudo),
-        Err(x) => println!("{:?}", x)
+        Err(_) => println!("O aquivo não pode ser lido")
     }
 }
