@@ -55,18 +55,7 @@
 
 ---
 
-## 06. Lidando com Vários Tipos de Erros
-
-**Objetivo**: Trabalhar com múltiplos tipos de erros.  
-**Instruções**:  
-
-- Implemente uma função `process_file` que lê um arquivo, converte cada linha em um número e calcula sua soma.  
-- Lide com erros de I/O e de parsing usando `Result`.  
-**Saída esperada**: Um erro detalhado, como *"Erro ao ler o arquivo: ..."* ou *"Erro ao converter uma linha para número."*.  
-
----
-
-## 07. Usando `thiserror` para Erros Customizados  
+## 06. Usando `thiserror` para Erros Customizados  
 
 **Objetivo**: Aprender a simplificar erros customizados com a crate `thiserror`.  
 **Instruções**:  
@@ -77,7 +66,7 @@
 
 ---
 
-## 08. Testando Erros com o Macro `assert_eq!` e `assert!(matches!())`  
+## 07. Testando Erros com o Macro `assert_eq!` e `assert!(matches!())`  
 
 **Objetivo**: Escrever testes específicos para erros customizados.  
 **Instruções**:  
@@ -88,7 +77,7 @@
 
 ---
 
-## 09. Tratando Erros com `anyhow`  
+## 08. Tratando Erros com `anyhow`  
 
 **Objetivo**: Trabalhar com a crate `anyhow` para simplificar propagação de erros.  
 **Instruções**:  
@@ -99,7 +88,7 @@
 
 ---
 
-## 10. Benchmark de Erros com `cargo test`
+## 09. Benchmark de Erros com `cargo test`
 
 **Objetivo**: Avaliar o desempenho de funções com erros em cenários de teste.  
 **Instruções**:  
