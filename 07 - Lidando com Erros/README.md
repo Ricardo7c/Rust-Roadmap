@@ -55,18 +55,7 @@
 
 ---
 
-## 06. Lidando com Vários Tipos de Erros
-
-**Objetivo**: Trabalhar com múltiplos tipos de erros.  
-**Instruções**:  
-
-- Implemente uma função `process_file` que lê um arquivo, converte cada linha em um número e calcula sua soma.  
-- Lide com erros de I/O e de parsing usando `Result`.  
-**Saída esperada**: Um erro detalhado, como *"Erro ao ler o arquivo: ..."* ou *"Erro ao converter uma linha para número."*.  
-
----
-
-## 07. Usando `thiserror` para Erros Customizados  
+## 06. Usando `thiserror` para Erros Customizados  
 
 **Objetivo**: Aprender a simplificar erros customizados com a crate `thiserror`.  
 **Instruções**:  
@@ -74,38 +63,5 @@
 - Adicione `thiserror` ao seu projeto (`cargo add thiserror`).  
 - Reescreva o `MathError` usando a macro `#[derive(thiserror::Error)]`.  
 - Personalize as mensagens de erro usando `#[error(...)]`.  
-
----
-
-## 08. Testando Erros com o Macro `assert_eq!` e `assert!(matches!())`  
-
-**Objetivo**: Escrever testes específicos para erros customizados.  
-**Instruções**:  
-
-- Escreva testes para garantir que funções retornam erros esperados.  
-- Use `assert!(matches!(...))` para verificar casos de erro.  
-**Exemplo de uso**: `assert!(matches!(divide(1.0, 0.0), Err(MathError::DivisionByZero)));`  
-
----
-
-## 09. Tratando Erros com `anyhow`  
-
-**Objetivo**: Trabalhar com a crate `anyhow` para simplificar propagação de erros.  
-**Instruções**:  
-
-- Adicione a crate `anyhow` ao projeto (`cargo add anyhow`).  
-- Implemente a função `read_and_parse` que tenta ler e processar um arquivo.  
-- Use `anyhow::Result` para simplificar os retornos de erro.  
-
----
-
-## 10. Benchmark de Erros com `cargo test`
-
-**Objetivo**: Avaliar o desempenho de funções com erros em cenários de teste.  
-**Instruções**:  
-
-- Escreva testes para medir o desempenho de funções que propagam erros.  
-- Use entradas válidas e inválidas para verificar comportamento e performance.  
-**Saída esperada**: Mensagens indicando o tempo de execução para cada cenário.  
 
 ---
