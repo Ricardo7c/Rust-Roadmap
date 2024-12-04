@@ -3,7 +3,7 @@
 Este roadmap foi criado por mim para auxiliar nos meus estudos em Rust.
 Estou compartilhando para ajudar outros iniciantes.
 
-Pretendo alimentar esse repositorio aos poucos com exercícios sobre cada topico.
+**NÃO É UM CURSO: Apenas um guia para organizar os estudos.**
 
 Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido completamente antes de partir para o proximo.
 

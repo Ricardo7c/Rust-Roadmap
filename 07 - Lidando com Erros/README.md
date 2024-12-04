@@ -64,5 +64,4 @@
 - Reescreva o `MathError` usando a macro `#[derive(thiserror::Error)]`.  
 - Personalize as mensagens de erro usando `#[error(...)]`.  
 
-
 ---
