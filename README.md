@@ -74,7 +74,7 @@ Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido complet
 - Erros customizados
 - Testes
 
-## 8. Módulos e Crates - [Exercícios]
+## 8. Módulos e Crates
 
 - Organização de código
 - Publicando uma crate
