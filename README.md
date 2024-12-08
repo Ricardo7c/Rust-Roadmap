@@ -42,7 +42,6 @@ Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido complet
 - Lifetimes
 - Generics
 - Uso de bibliotecas - [Exercícios](https://github.com/Ricardo7c/Rust-Bibliotecas/blob/main/README.md)
-
 - Option
 - Result
 
