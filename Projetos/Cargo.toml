@@ -1,0 +1,15 @@
+[dependencies]
+
+[package]
+name = "Projetos"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "to-do-list"
+path = "to-do-list.rs"
+
+[[bin]]
+name = "conversor"
+path = "conversor.rs"
+
