@@ -47,7 +47,7 @@ Sugiro seguir o roadmap sem pular etapas, cada topico deve ser entendido complet
 
 ---
 
-### Aqui se encerra o nível básico do roadmap. Certifique-se de resolver todos os exercícios antes de prosseguir. Se ainda não se sente confiante em algum dos assuntos tratados até aqui, sugiro que faça uma revisão antes de avançar. Uma dúvida ignorada neste nível básico pode dificultar o entendimento de temas mais complexos no próximo nível  
+**Aqui se encerra o nível básico do roadmap. Certifique-se de resolver todos os exercícios antes de prosseguir. Se ainda não se sente confiante em algum dos assuntos tratados até aqui, sugiro que faça uma revisão antes de avançar. Uma dúvida ignorada neste nível básico pode dificultar o entendimento de temas mais complexos no próximo nível**  
 
 ---
 
